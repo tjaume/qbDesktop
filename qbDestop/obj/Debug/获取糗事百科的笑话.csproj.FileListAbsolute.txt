@@ -12,3 +12,11 @@ D:\program\WinForm\获取糗事百科的笑话\获取糗事百科的笑话\bin\D
 D:\program\WinForm\获取糗事百科的笑话\获取糗事百科的笑话\bin\Debug\HtmlAgilityPack.dll
 D:\program\gitRepository\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.exe
 D:\program\gitRepository\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.pdb
+D:\program\gitRepository\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.csprojResolveAssemblyReference.cache
+D:\program\gitRepository\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.FrmMain.resources
+D:\program\gitRepository\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.Properties.Resources.resources
+D:\program\gitRepository\qbDesktop\qbDestop\obj\Debug\获取糗事百科的笑话.csproj.GenerateResource.Cache
+D:\program\gitRepository\qbDesktop\qbDestop\bin\Debug\获取糗事百科的笑话.exe
+D:\program\gitRepository\qbDesktop\qbDestop\bin\Debug\获取糗事百科的笑话.pdb
+D:\program\gitRepository\qbDesktop\qbDestop\bin\Debug\HtmlAgilityPack.dll
+D:\program\gitRepository\qbDesktop\qbDestop\bin\Debug\MyControlLibrary.dll
