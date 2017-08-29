@@ -1,0 +1,7 @@
+D:\program\WinForm\获取糗事百科的笑话\MyControlLibrary\bin\Debug\MyControlLibrary.dll
+D:\program\WinForm\获取糗事百科的笑话\MyControlLibrary\bin\Debug\MyControlLibrary.pdb
+D:\program\WinForm\获取糗事百科的笑话\MyControlLibrary\obj\Debug\MyControlLibrary.dll
+D:\program\WinForm\获取糗事百科的笑话\MyControlLibrary\obj\Debug\MyControlLibrary.pdb
+D:\program\WinForm\获取糗事百科的笑话\MyControlLibrary\obj\Debug\MyControlLibrary.Resource.resources
+D:\program\WinForm\获取糗事百科的笑话\MyControlLibrary\obj\Debug\MyControlLibrary.csproj.GenerateResource.Cache
+D:\program\WinForm\获取糗事百科的笑话\MyControlLibrary\obj\Debug\MyControlLibrary.csprojResolveAssemblyReference.cache
